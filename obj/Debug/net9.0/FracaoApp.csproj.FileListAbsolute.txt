@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\fracao\FracaoApp\bin\Debug\net9.0\FracaoApp.exe
+C:\Users\julia\Desktop\fracao\FracaoApp\bin\Debug\net9.0\FracaoApp.deps.json
+C:\Users\julia\Desktop\fracao\FracaoApp\bin\Debug\net9.0\FracaoApp.runtimeconfig.json
+C:\Users\julia\Desktop\fracao\FracaoApp\bin\Debug\net9.0\FracaoApp.dll
+C:\Users\julia\Desktop\fracao\FracaoApp\bin\Debug\net9.0\FracaoApp.pdb
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.AssemblyInfo.cs
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.dll
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\refint\FracaoApp.dll
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.pdb
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\FracaoApp.genruntimeconfig.cache
+C:\Users\julia\Desktop\fracao\FracaoApp\obj\Debug\net9.0\ref\FracaoApp.dll
